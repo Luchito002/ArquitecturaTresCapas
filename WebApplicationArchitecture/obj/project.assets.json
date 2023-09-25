@@ -581,13 +581,24 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "DAL": "1.0.0",
-          "Entities": "1.0.0"
+          "Entities": "1.0.0",
+          "Tools": "1.0.0"
         },
         "compile": {
           "bin/placeholder/LN.dll": {}
         },
         "runtime": {
           "bin/placeholder/LN.dll": {}
+        }
+      },
+      "Tools/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tools.dll": {}
         }
       }
     }
@@ -1710,6 +1721,11 @@
       "type": "project",
       "path": "../LN/LN.csproj",
       "msbuildProject": "../LN/LN.csproj"
+    },
+    "Tools/1.0.0": {
+      "type": "project",
+      "path": "../Tools/Tools.csproj",
+      "msbuildProject": "../Tools/Tools.csproj"
     }
   },
   "projectFileDependencyGroups": {

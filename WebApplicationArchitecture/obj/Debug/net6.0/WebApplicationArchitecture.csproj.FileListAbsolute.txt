@@ -59,3 +59,5 @@ C:\Users\Fernando\source\repos\WebApplicationArchitecture\WebApplicationArchitec
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\WebApplicationArchitecture\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\WebApplicationArchitecture\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\WebApplicationArchitecture\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\WebApplicationArchitecture\bin\Debug\net6.0\Tools.dll
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\WebApplicationArchitecture\bin\Debug\net6.0\Tools.pdb

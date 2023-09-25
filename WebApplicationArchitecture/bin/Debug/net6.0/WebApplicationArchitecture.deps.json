@@ -353,10 +353,16 @@
       "LN/1.0.0": {
         "dependencies": {
           "DAL": "1.0.0",
-          "Entities": "1.0.0"
+          "Entities": "1.0.0",
+          "Tools": "1.0.0"
         },
         "runtime": {
           "LN.dll": {}
+        }
+      },
+      "Tools/1.0.0": {
+        "runtime": {
+          "Tools.dll": {}
         }
       }
     }
@@ -595,6 +601,11 @@
       "sha512": ""
     },
     "LN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tools/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

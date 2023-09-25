@@ -5,7 +5,6 @@ namespace LN
 {
     public class PersonaLN
     {
-
         public string InsertarPersona(Persona persona)
         {
             // Validación del nombre
@@ -21,13 +20,14 @@ namespace LN
             }
 
             // Crear una instancia de DatabaseContext
-            //using (var dbContext = new DatabaseContext(DatabaseContext.GetOptions()))
             using (var dbContext = new DatabaseContext())
             {
+                var personasOperations = new PersonasOperations(dbContext);
+
                 try
                 {
-                    // Llama al método InsertPersona de la DAL
-                    dbContext.InsertarPersona(persona);
+                    // Llama al método InsertarPersona de PersonasOperations
+                    personasOperations.InsertarPersona(persona);
                     return "Se insertó correctamente.";
                 }
                 catch (Exception ex)

@@ -481,6 +481,16 @@
         "runtime": {
           "bin/placeholder/Entities.dll": {}
         }
+      },
+      "Tools/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tools.dll": {}
+        }
       }
     }
   },
@@ -1178,12 +1188,18 @@
       "type": "project",
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Tools/1.0.0": {
+      "type": "project",
+      "path": "../Tools/Tools.csproj",
+      "msbuildProject": "../Tools/Tools.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "DAL >= 1.0.0",
-      "Entities >= 1.0.0"
+      "Entities >= 1.0.0",
+      "Tools >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1218,6 +1234,9 @@
             },
             "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj"
+            },
+            "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj": {
+              "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj"
             }
           }
         }
