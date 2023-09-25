@@ -33,21 +33,34 @@ namespace DAL
 
         public bool LoginUsuario(Usuario usuario)
         {
-            // Busca un usuario con el nombre de usuario proporcionado en la base de datos
-            var usuarioEncontrado = _context.Usuarios.FirstOrDefault(u => u.Nombre == usuario.Nombre);
-
-            Console.WriteLine(usuarioEncontrado.Contrasenia);
-            Console.WriteLine(Encriptacion.Desencriptar(usuarioEncontrado.Contrasenia, 3));
-
-            // Verifica si se encontró un usuario y si la contraseña coincide
-            if (usuarioEncontrado != null && Encriptacion.Desencriptar(usuarioEncontrado.Contrasenia, 3) == usuario.Contrasenia)
+            try
             {
-                // Inicio de sesión exitoso
-                return true;
-            }
+                if (usuario == null)
+                {
+                    throw new ArgumentNullException(nameof(usuario));
+                }
+                // Busca un usuario con el nombre de usuario proporcionado en la base de datos
+                var usuarioEncontrado = _context.Usuarios.FirstOrDefault(u => u.Nombre == usuario.Nombre);
 
-            // Inicio de sesión fallido
-            return false;
+                if (usuarioEncontrado != null)
+                {
+                    string contraseniaDesencriptada = Encriptacion.Desencriptar(usuarioEncontrado.Contrasenia, 3);
+
+                    // Verifica si la contraseña coincide
+                    if (contraseniaDesencriptada == usuario.Contrasenia)
+                    {
+                        // Inicio de sesión exitoso
+                        return true;
+                    }
+                }
+                // Inicio de sesión fallido
+                return false;
+            }
+            catch (Exception ex)
+            {
+                // Puedes manejar excepciones específicas aquí, por ejemplo, problemas con la base de datos.
+                return false;
+            }
         }
     }
 }
