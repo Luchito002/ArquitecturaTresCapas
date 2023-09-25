@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DAL"
   ],
-  "SelectedNode": "\\WebApplicationArchitecture.sln",
+  "SelectedNode": "\\DAL\\UsuariosOperations.cs",
   "PreviewInSolutionExplorer": false
 }
