@@ -28,7 +28,7 @@ namespace LN
                 {
                     // Llama al método InsertarPersona de PersonasOperations
                     personasOperations.InsertarPersona(persona);
-                    return "Se insertó correctamente.";
+                    return "Se ha insertado una nueva persona correctamente.";
                 }
                 catch (Exception ex)
                 {
