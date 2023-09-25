@@ -1,0 +1,17 @@
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\bin\Debug\net6.0\LN.deps.json
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\bin\Debug\net6.0\LN.dll
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\bin\Debug\net6.0\LN.pdb
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\bin\Debug\net6.0\DAL.dll
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\bin\Debug\net6.0\Entities.dll
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\bin\Debug\net6.0\DAL.pdb
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\bin\Debug\net6.0\Entities.pdb
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\LN.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\LN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\LN.AssemblyInfoInputs.cache
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\LN.AssemblyInfo.cs
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\LN.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\LN.csproj.CopyComplete
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\LN.dll
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\refint\LN.dll
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\LN.pdb
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\ref\LN.dll
