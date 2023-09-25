@@ -15,11 +15,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\Entities\\Entities.csproj",
       "projectName": "Entities",
       "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\Entities\\obj\\",
+=======
+      "projectUniqueName": "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\Entities\\Entities.csproj",
+      "projectName": "Entities",
+      "projectPath": "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\Entities\\Entities.csproj",
+      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+      "outputPath": "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\Entities\\obj\\",
+>>>>>>> a54069291027a832f00598a0dbb9d7c52ef40646
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

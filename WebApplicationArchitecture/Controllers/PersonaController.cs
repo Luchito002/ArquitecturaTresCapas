@@ -18,7 +18,7 @@ namespace WebApplicationArchitecture.Controllers
         }
 
         // POST api/<PersonaController>
-        [HttpPost]
+        [HttpPost("agregarPersona")]
         public Response Post(Persona persona)
         {
             if(string.IsNullOrEmpty(HttpContext.Session.GetString("SessionId")))

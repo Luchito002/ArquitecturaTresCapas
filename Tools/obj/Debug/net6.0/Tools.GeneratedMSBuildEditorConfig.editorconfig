@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Tools
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Alumno\Source\Repos\ArquitecturaTresCapas\Tools\
+=======
+build_property.ProjectDir = E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\
+>>>>>>> a54069291027a832f00598a0dbb9d7c52ef40646

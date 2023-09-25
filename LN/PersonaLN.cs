@@ -8,13 +8,13 @@ namespace LN
         public string InsertarPersona(Persona persona)
         {
             // Validación del nombre
-            if (string.IsNullOrEmpty(persona.Nombre))
+            if (string.IsNullOrWhiteSpace(persona.Nombre))
             {
                 return "El nombre no puede estar vacío.";
             }
 
             // Validación de la dirección
-            if (string.IsNullOrEmpty(persona.Direccion))
+            if (string.IsNullOrWhiteSpace(persona.Direccion))
             {
                 return "La dirección no puede estar vacía.";
             }
@@ -28,7 +28,7 @@ namespace LN
                 {
                     // Llama al método InsertarPersona de PersonasOperations
                     personasOperations.InsertarPersona(persona);
-                    return "Se insertó correctamente.";
+                    return "Se ha insertado una nueva persona correctamente.";
                 }
                 catch (Exception ex)
                 {

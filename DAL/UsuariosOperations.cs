@@ -21,6 +21,15 @@ namespace DAL
         {
             try
             {
+                // Verifica si ya existe un usuario con el mismo nombre
+                var usuarioExistente = _context.Usuarios.FirstOrDefault(u => u.Nombre == usuario.Nombre);
+
+                if (usuarioExistente != null)
+                {
+                    // Ya existe un usuario con el mismo nombre, no se puede crear otro
+                    return false;
+                }
+
                 _context.Usuarios.Add(usuario);
                 _context.SaveChanges();
                 return true;
@@ -30,6 +39,7 @@ namespace DAL
                 return false;
             }
         }
+
 
         public bool LoginUsuario(Usuario usuario)
         {

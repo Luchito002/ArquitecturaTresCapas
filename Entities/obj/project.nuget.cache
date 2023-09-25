@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ffk32ESxKNq5FtoZwpLA0nFpbvFhIjqlO1g3gXxB8a5dvOg9+j5m0H2wXz2ld4dZvV1IDywiESj9wVkxK/iINQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\Entities\\Entities.csproj",
+=======
+  "dgSpecHash": "R901fkSi2h9knfcOkHPRd7ataW1KftxQKajEjZA4vQy2PdQ6c8fP1TA+X5sBylDANh0DDEiTUd6eP1ZKaY3/3g==",
+  "success": true,
+  "projectFilePath": "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\Entities\\Entities.csproj",
+>>>>>>> a54069291027a832f00598a0dbb9d7c52ef40646
   "expectedPackageFiles": [],
   "logs": []
 }

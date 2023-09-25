@@ -50,11 +50,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\DAL\\DAL.csproj",
       "projectName": "DAL",
       "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\DAL\\obj\\",
+=======
+      "projectUniqueName": "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\DAL\\DAL.csproj",
+      "projectName": "DAL",
+      "projectPath": "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\DAL\\DAL.csproj",
+      "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+      "outputPath": "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\DAL\\obj\\",
+>>>>>>> a54069291027a832f00598a0dbb9d7c52ef40646
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -78,11 +86,19 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\Entities\\Entities.csproj"
             },
             "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\Tools\\Tools.csproj": {
               "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\Tools\\Tools.csproj"
+=======
+            "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\Entities\\Entities.csproj": {
+              "projectPath": "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\Entities\\Entities.csproj"
+            },
+            "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\Tools\\Tools.csproj": {
+              "projectPath": "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\Tools\\Tools.csproj"
+>>>>>>> a54069291027a832f00598a0dbb9d7c52ef40646
             }
           }
         }
