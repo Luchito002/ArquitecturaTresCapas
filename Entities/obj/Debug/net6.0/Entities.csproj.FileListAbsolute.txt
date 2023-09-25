@@ -9,6 +9,7 @@ C:\Users\Fernando\source\repos\WebApplicationArchitecture\Entities\obj\Debug\net
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\Entities\obj\Debug\net6.0\refint\Entities.dll
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\Entities\obj\Debug\net6.0\Entities.pdb
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\Entities\obj\Debug\net6.0\ref\Entities.dll
+<<<<<<< HEAD
 E:\Escritorio\Capas\Entities\bin\Debug\net6.0\Entities.deps.json
 E:\Escritorio\Capas\Entities\bin\Debug\net6.0\Entities.dll
 E:\Escritorio\Capas\Entities\bin\Debug\net6.0\Entities.pdb
@@ -20,3 +21,16 @@ E:\Escritorio\Capas\Entities\obj\Debug\net6.0\Entities.dll
 E:\Escritorio\Capas\Entities\obj\Debug\net6.0\refint\Entities.dll
 E:\Escritorio\Capas\Entities\obj\Debug\net6.0\Entities.pdb
 E:\Escritorio\Capas\Entities\obj\Debug\net6.0\ref\Entities.dll
+=======
+E:\Escritorio\Ex\ArquitecturaTresCapas\Entities\bin\Debug\net6.0\Entities.deps.json
+E:\Escritorio\Ex\ArquitecturaTresCapas\Entities\bin\Debug\net6.0\Entities.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\Entities\bin\Debug\net6.0\Entities.pdb
+E:\Escritorio\Ex\ArquitecturaTresCapas\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\Ex\ArquitecturaTresCapas\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+E:\Escritorio\Ex\ArquitecturaTresCapas\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+E:\Escritorio\Ex\ArquitecturaTresCapas\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+E:\Escritorio\Ex\ArquitecturaTresCapas\Entities\obj\Debug\net6.0\Entities.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\Entities\obj\Debug\net6.0\refint\Entities.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\Entities\obj\Debug\net6.0\Entities.pdb
+E:\Escritorio\Ex\ArquitecturaTresCapas\Entities\obj\Debug\net6.0\ref\Entities.dll
+>>>>>>> cdf2322d41d5835b5fd57e7dde6c9fb03474ecb1

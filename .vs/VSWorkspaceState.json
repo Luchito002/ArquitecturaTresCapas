@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     ""
   ],
   "SelectedNode": "\\WebApplicationArchitecture.sln",
+=======
+    "",
+    "\\DAL"
+  ],
+  "SelectedNode": "\\DAL\\UsuariosOperations.cs",
+>>>>>>> cdf2322d41d5835b5fd57e7dde6c9fb03474ecb1
   "PreviewInSolutionExplorer": false
 }

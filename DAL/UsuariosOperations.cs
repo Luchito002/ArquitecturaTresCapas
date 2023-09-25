@@ -19,6 +19,17 @@ namespace DAL
 
         public bool CrearUsuario(Usuario usuario)
         {
+            if (usuario == null)
+            {
+                // Manejo de error: El usuario es nulo.
+                return false;
+            }
+
+            if (string.IsNullOrEmpty(usuario.Nombre) || string.IsNullOrEmpty(usuario.Email))
+            {
+                // Manejo de error: El nombre o el correo electrónico son obligatorios.
+                return false;
+            }
             try
             {
                 // Verifica si ya existe un usuario con el mismo nombre
@@ -43,21 +54,34 @@ namespace DAL
 
         public bool LoginUsuario(Usuario usuario)
         {
-            // Busca un usuario con el nombre de usuario proporcionado en la base de datos
-            var usuarioEncontrado = _context.Usuarios.FirstOrDefault(u => u.Nombre == usuario.Nombre);
-
-            Console.WriteLine(usuarioEncontrado.Contrasenia);
-            Console.WriteLine(Encriptacion.Desencriptar(usuarioEncontrado.Contrasenia, 3));
-
-            // Verifica si se encontró un usuario y si la contraseña coincide
-            if (usuarioEncontrado != null && Encriptacion.Desencriptar(usuarioEncontrado.Contrasenia, 3) == usuario.Contrasenia)
+            try
             {
-                // Inicio de sesión exitoso
-                return true;
-            }
+                if (usuario == null)
+                {
+                    throw new ArgumentNullException(nameof(usuario));
+                }
+                // Busca un usuario con el nombre de usuario proporcionado en la base de datos
+                var usuarioEncontrado = _context.Usuarios.FirstOrDefault(u => u.Nombre == usuario.Nombre);
 
-            // Inicio de sesión fallido
-            return false;
+                if (usuarioEncontrado != null)
+                {
+                    string contraseniaDesencriptada = Encriptacion.Desencriptar(usuarioEncontrado.Contrasenia, 3);
+
+                    // Verifica si la contraseña coincide
+                    if (contraseniaDesencriptada == usuario.Contrasenia)
+                    {
+                        // Inicio de sesión exitoso
+                        return true;
+                    }
+                }
+                // Inicio de sesión fallido
+                return false;
+            }
+            catch (Exception ex)
+            {
+                // Puedes manejar excepciones específicas aquí, por ejemplo, problemas con la base de datos.
+                return false;
+            }
         }
     }
 }

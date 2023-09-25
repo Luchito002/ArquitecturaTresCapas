@@ -17,6 +17,7 @@ C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\LN
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\obj\Debug\net6.0\ref\LN.dll
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\bin\Debug\net6.0\Tools.dll
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\LN\bin\Debug\net6.0\Tools.pdb
+<<<<<<< HEAD
 E:\Escritorio\Capas\LN\bin\Debug\net6.0\LN.deps.json
 E:\Escritorio\Capas\LN\bin\Debug\net6.0\LN.dll
 E:\Escritorio\Capas\LN\bin\Debug\net6.0\LN.pdb
@@ -36,3 +37,24 @@ E:\Escritorio\Capas\LN\obj\Debug\net6.0\LN.dll
 E:\Escritorio\Capas\LN\obj\Debug\net6.0\refint\LN.dll
 E:\Escritorio\Capas\LN\obj\Debug\net6.0\LN.pdb
 E:\Escritorio\Capas\LN\obj\Debug\net6.0\ref\LN.dll
+=======
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\bin\Debug\net6.0\LN.deps.json
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\bin\Debug\net6.0\LN.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\bin\Debug\net6.0\LN.pdb
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\bin\Debug\net6.0\DAL.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\bin\Debug\net6.0\Entities.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\bin\Debug\net6.0\Tools.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\bin\Debug\net6.0\DAL.pdb
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\bin\Debug\net6.0\Entities.pdb
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\bin\Debug\net6.0\Tools.pdb
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.csproj.AssemblyReference.cache
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.AssemblyInfoInputs.cache
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.AssemblyInfo.cs
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.csproj.CoreCompileInputs.cache
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.csproj.CopyComplete
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\refint\LN.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.pdb
+E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\ref\LN.dll
+>>>>>>> cdf2322d41d5835b5fd57e7dde6c9fb03474ecb1
