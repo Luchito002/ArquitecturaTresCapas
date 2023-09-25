@@ -9,3 +9,14 @@ C:\Users\Fernando\source\repos\WebApplicationArchitecture\Tools\obj\Debug\net6.0
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\Tools\obj\Debug\net6.0\refint\Tools.dll
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\Tools\obj\Debug\net6.0\Tools.pdb
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\Tools\obj\Debug\net6.0\ref\Tools.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\bin\Debug\net6.0\Tools.deps.json
+E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\bin\Debug\net6.0\Tools.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\bin\Debug\net6.0\Tools.pdb
+E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\refint\Tools.dll
+E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.pdb
+E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\ref\Tools.dll

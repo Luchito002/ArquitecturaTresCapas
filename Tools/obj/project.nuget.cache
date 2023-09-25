@@ -1,8 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "uXfpcJoKjGasjoBnsyIxB8L216YcaSi5Y8i113VPKIcp3icjruJdGWrut1YU7uxS0mh+jnZwt8TDlCHE9EYqSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Tools\\Tools.csproj",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "o2jxFTk/JTUjfB+b6n3W8IZnjDNgTYqq7Ds4NRpcKRWrsN8yOyWR8Vre2G2fteXVujP5gGjRwlDjtoUG2EpYbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alumno\\Source\\Repos\\ArquitecturaTresCapas\\Tools\\Tools.csproj",
+=======
+  "dgSpecHash": "oLuZJgrOzJaRR9G4pY/IBKHihRf1JbgWni/GDexOAd+KfsXnGmJAFDMHzQkLY9qT48BVWgoYV9npzwt1G9po1g==",
+  "success": true,
+  "projectFilePath": "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\Tools\\Tools.csproj",
+>>>>>>> a54069291027a832f00598a0dbb9d7c52ef40646
+>>>>>>> ef2cf30b75cdc7c99db76eea80054cbecc9455f8
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -7,4 +7,8 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = DAL
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Alumno\Source\Repos\Luchito002\ArquitecturaTresCapas\DAL\
+=======
+build_property.ProjectDir = C:\Users\Alumno\Source\Repos\ArquitecturaTresCapas\DAL\
+>>>>>>> ef2cf30b75cdc7c99db76eea80054cbecc9455f8
