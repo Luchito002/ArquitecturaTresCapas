@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OKSHN5vSnQB+Pb89hqBbvAlaupToYy4mqAI+7rN8edjnw0ZKUKPuEGR2akKcDHSnYr3Uki+CgWblThWOzMtiPQ==",
+  "dgSpecHash": "6oRQyteP4UzpxMFMbDIcQIGx/Mbj+qO3HThjAojkmOVHMRVNryyz9TyjiFakbKTSS+zo1OfP8pXe2nyYm068Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WINDOW 11\\Desktop\\capas3\\Tools\\Tools.csproj",
+  "projectFilePath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Tools\\Tools.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\WINDOW 11\\Desktop\\capas3\\Tools\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

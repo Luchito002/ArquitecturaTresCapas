@@ -34,3 +34,14 @@ E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\refint\Tools.dll
 E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.pdb
 E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\ref\Tools.dll
 >>>>>>> cdf2322d41d5835b5fd57e7dde6c9fb03474ecb1
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\Tools\bin\Debug\net6.0\Tools.deps.json
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\Tools\bin\Debug\net6.0\Tools.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\Tools\bin\Debug\net6.0\Tools.pdb
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\refint\Tools.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\Tools.pdb
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\Tools\obj\Debug\net6.0\ref\Tools.dll

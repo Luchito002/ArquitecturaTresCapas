@@ -58,3 +58,22 @@ E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\refint\LN.dll
 E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.pdb
 E:\Escritorio\Ex\ArquitecturaTresCapas\LN\obj\Debug\net6.0\ref\LN.dll
 >>>>>>> cdf2322d41d5835b5fd57e7dde6c9fb03474ecb1
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\bin\Debug\net6.0\LN.deps.json
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\bin\Debug\net6.0\LN.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\bin\Debug\net6.0\LN.pdb
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\bin\Debug\net6.0\DAL.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\bin\Debug\net6.0\Entities.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\bin\Debug\net6.0\Tools.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\bin\Debug\net6.0\DAL.pdb
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\bin\Debug\net6.0\Entities.pdb
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\bin\Debug\net6.0\Tools.pdb
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.csproj.CopyComplete
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\obj\Debug\net6.0\refint\LN.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\obj\Debug\net6.0\LN.pdb
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\LN\obj\Debug\net6.0\ref\LN.dll

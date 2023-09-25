@@ -25,7 +25,7 @@ namespace DAL
                 return false;
             }
 
-            if (string.IsNullOrEmpty(usuario.Nombre) || string.IsNullOrEmpty(usuario.Email))
+            if (string.IsNullOrEmpty(usuario.Nombre))
             {
                 // Manejo de error: El nombre o el correo electrónico son obligatorios.
                 return false;

@@ -18,10 +18,7 @@ namespace WebApplicationArchitecture.Controllers
             personaLn = new PersonaLN(); // Asegúrate de que esta línea inicialice correctamente personaLn
         }
 
-        [HttpPost]
-        // POST api/<PersonaController>
         [HttpPost("agregarPersona")]
-
         public Response Post(Persona persona)
         {
             if (string.IsNullOrEmpty(HttpContext.Session.GetString("SessionId")))

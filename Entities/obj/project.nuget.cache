@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9OhEWNzU0aZmWdDKagGZ3onvYQc4Oh7i9fyAT6iiIHE5qA3cBXVTassch97tgdoFp4rzpW/tZHf0ZwcZj8ThXA==",
+  "dgSpecHash": "P6StM/5MePq33mSbZIgHDKHxFbJ2fngDJT4S/CssnQr0HP1AV2UW4VA6Pt9ahyuvrFI5aElrznVQNUuk5LOrhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WINDOW 11\\Desktop\\capas3\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché C:\\Users\\WINDOW 11\\Desktop\\capas3\\Entities\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

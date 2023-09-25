@@ -58,3 +58,22 @@ E:\Escritorio\Ex\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\DAL.pdb
 E:\Escritorio\Ex\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
 E:\Escritorio\Ex\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\ref\DAL.dll
 >>>>>>> cdf2322d41d5835b5fd57e7dde6c9fb03474ecb1
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\bin\Debug\net6.0\Entities.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\bin\Debug\net6.0\Tools.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\bin\Debug\net6.0\Entities.pdb
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\bin\Debug\net6.0\Tools.pdb
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\Fernando\Desktop\jals;dkfvjs;kljvakl;jvasdv\ArquitecturaTresCapas\DAL\obj\Debug\net6.0\ref\DAL.dll
