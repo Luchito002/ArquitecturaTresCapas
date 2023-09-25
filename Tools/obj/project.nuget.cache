@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YAo8o+UAFqDrZ/ZhNGmw3Ef6vMct/iS4hJ5sYsTHJRg0qqU3l5hIEtO33Lh7wCoygPOJZjfjWvsi0MBOXk8SXw==",
+  "dgSpecHash": "oLuZJgrOzJaRR9G4pY/IBKHihRf1JbgWni/GDexOAd+KfsXnGmJAFDMHzQkLY9qT48BVWgoYV9npzwt1G9po1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj",
+  "projectFilePath": "E:\\Escritorio\\Ex\\ArquitecturaTresCapas\\Tools\\Tools.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
