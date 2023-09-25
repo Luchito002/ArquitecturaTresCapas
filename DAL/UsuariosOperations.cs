@@ -19,6 +19,17 @@ namespace DAL
 
         public bool CrearUsuario(Usuario usuario)
         {
+            if (usuario == null)
+            {
+                // Manejo de error: El usuario es nulo.
+                return false;
+            }
+
+            if (string.IsNullOrEmpty(usuario.Nombre) || string.IsNullOrEmpty(usuario.Email))
+            {
+                // Manejo de error: El nombre o el correo electrónico son obligatorios.
+                return false;
+            }
             try
             {
                 _context.Usuarios.Add(usuario);

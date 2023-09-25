@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\LN\\LN.csproj": {}
+    "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\LN\\LN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\DAL\\DAL.csproj": {
+    "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -28,11 +34,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj"
+              "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj"
+              "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Tools\\Tools.csproj"
               }
             }
           }
@@ -46,58 +52,38 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.11, )"
-            },
-            "Microsoft.Extensions.Configuration": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.Extensions.Configuration.Json": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[7.0.11, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj": {
+    "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -127,32 +113,32 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\LN\\LN.csproj": {
+    "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\LN\\LN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\LN\\LN.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\LN\\LN.csproj",
         "projectName": "LN",
-        "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\LN\\LN.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\LN\\obj\\",
+        "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\LN\\LN.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\LN\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -165,14 +151,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\DAL\\DAL.csproj"
+              "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj"
+              "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj"
+              "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Tools\\Tools.csproj"
               }
             }
           }
@@ -192,32 +178,32 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj": {
+    "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\obj\\",
+        "projectPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Tools\\Tools.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alumno\\Source\\Repos\\Luchito002\\ArquitecturaTresCapas\\Tools\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -247,17 +233,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }
