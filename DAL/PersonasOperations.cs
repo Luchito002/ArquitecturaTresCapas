@@ -1,4 +1,5 @@
 ﻿using Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace DAL
 {
@@ -15,6 +16,11 @@ namespace DAL
         {
             _context.Personas.Add(persona);
             _context.SaveChanges();
+        }
+
+        public List<Persona> ListarPersonas()
+        {
+            return _context.Set<Persona>().ToList();
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EF8W+Cn7qqJEywnv9lsdPXDI8XCLM6UKAW/UlCrDnr/UNhNoydh4ckmxXJrkVyCZrNLRP7ZntRMSKaGHx447vg==",
+  "dgSpecHash": "B020rsGNBsbCUHuc4uHFfGTTMUxLk1BPLA6EZm3ZH7C/C4sdjnRgPo8yGwpXZRNuppMSBIzHAoGR9+ZxwIWz4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj",
+  "projectFilePath": "E:\\Escritorio\\Capas\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

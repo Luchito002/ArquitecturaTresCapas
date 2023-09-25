@@ -5,6 +5,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.AspNetCore.Http;
 using System;
 using Microsoft.AspNetCore.Mvc.Controllers;
+using static LN.PersonaLN;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +22,7 @@ builder.Services.AddSession(options =>
 
 // Configurar el almacenamiento en memoria
 builder.Services.AddDistributedMemoryCache();
+
 
 var app = builder.Build();
 

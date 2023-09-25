@@ -3,6 +3,7 @@ using Entities;
 using Microsoft.AspNetCore.Connections.Features;
 using Microsoft.AspNetCore.Mvc;
 using WebApplicationArchitecture.Contratos;
+using static LN.PersonaLN;
 
 namespace WebApplicationArchitecture.Controllers
 {
@@ -14,18 +15,18 @@ namespace WebApplicationArchitecture.Controllers
 
         public PersonaController()
         {
-            personaLn = new PersonaLN();
+            personaLn = new PersonaLN(); // Asegúrate de que esta línea inicialice correctamente personaLn
         }
 
-        // POST api/<PersonaController>
+
         [HttpPost]
         public Response Post(Persona persona)
         {
-            if(string.IsNullOrEmpty(HttpContext.Session.GetString("SessionId")))
+            if (string.IsNullOrEmpty(HttpContext.Session.GetString("SessionId")))
             {
                 return new Response(
-                    "Algo salio mal",
-                    "No tienes el Id sesion",
+                    "Algo salió mal",
+                    "No tienes el ID de sesión",
                     200
                 );
             }
@@ -37,5 +38,12 @@ namespace WebApplicationArchitecture.Controllers
                 200
             );
         }
+        [HttpGet]
+        public IActionResult ListarPersonas()
+        {
+            var personas = personaLn.ListarPersonas();
+            return Ok(personas);
+        }
     }
+
 }
