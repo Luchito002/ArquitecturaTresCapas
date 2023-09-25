@@ -24,7 +24,7 @@ namespace WebApplicationArchitecture.Controllers
             if(result)
             {
                 // Generar un sessionId aleatorio para idsesioncurrent
-                string idsesioncurrent = GenerateRandomSessionId();
+                string idsesioncurrent =  GenerateRandomSessionId();
                 // Crear una instancia de la clase Request y almacenarla en la sesión
                 var request = new Request("session_id_value");
                 HttpContext.Session.SetString("SessionId", "idsesioncurrent");

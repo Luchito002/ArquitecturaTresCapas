@@ -3,20 +3,9 @@ build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
-build_property.PublishSingleFile = 
-build_property.IncludeAllContentForSelfExtract = 
-build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tools
-<<<<<<< HEAD
-build_property.ProjectDir = E:\Escritorio\Capas\Tools\
-=======
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\Alumno\Source\Repos\Luchito002\ArquitecturaTresCapas\Tools\
-=======
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\Alumno\Source\Repos\ArquitecturaTresCapas\Tools\
-=======
-build_property.ProjectDir = E:\Escritorio\Ex\ArquitecturaTresCapas\Tools\
->>>>>>> a54069291027a832f00598a0dbb9d7c52ef40646
->>>>>>> ef2cf30b75cdc7c99db76eea80054cbecc9455f8
->>>>>>> cdf2322d41d5835b5fd57e7dde6c9fb03474ecb1
+build_property.ProjectDir = C:\Users\WINDOW 11\Desktop\capas3\Tools\

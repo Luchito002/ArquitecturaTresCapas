@@ -9,17 +9,9 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplicationArchitecture
 build_property.RootNamespace = WebApplicationArchitecture
-<<<<<<< HEAD
-build_property.ProjectDir = E:\Escritorio\Capas\WebApplicationArchitecture\
+build_property.ProjectDir = C:\Users\WINDOW 11\Desktop\capas3\WebApplicationArchitecture\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Escritorio\Capas\WebApplicationArchitecture
-=======
-build_property.ProjectDir = E:\Escritorio\Ex\ArquitecturaTresCapas\WebApplicationArchitecture\
-build_property.RazorLangVersion = 6.0
-build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\Escritorio\Ex\ArquitecturaTresCapas\WebApplicationArchitecture
->>>>>>> cdf2322d41d5835b5fd57e7dde6c9fb03474ecb1
+build_property.MSBuildProjectDirectory = C:\Users\WINDOW 11\Desktop\capas3\WebApplicationArchitecture
 build_property._RazorSourceGeneratorDebug = 
