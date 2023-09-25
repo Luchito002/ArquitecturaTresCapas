@@ -21,8 +21,7 @@ namespace WebApplicationArchitecture.Controllers
         [HttpPost]
         public Response Post(Persona persona)
         {
-            string sessionId = HttpContext.Session.GetString("SessionId");
-            if(string.IsNullOrEmpty(sessionId))
+            if(string.IsNullOrEmpty(HttpContext.Session.GetString("SessionId")))
             {
                 return new Response(
                     "Algo salio mal",
@@ -30,8 +29,6 @@ namespace WebApplicationArchitecture.Controllers
                     200
                 );
             }
-
-            Console.WriteLine(sessionId);
 
             string respuesta = personaLn.InsertarPersona(persona);
             return new Response(

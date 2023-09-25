@@ -15,3 +15,5 @@ C:\Users\Fernando\source\repos\WebApplicationArchitecture\DAL\obj\Debug\net6.0\r
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\DAL\obj\Debug\net6.0\DAL.pdb
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
 C:\Users\Fernando\source\repos\WebApplicationArchitecture\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\DAL\bin\Debug\net6.0\Tools.dll
+C:\Users\Fernando\source\repos\WebApplicationArchitecture\DAL\bin\Debug\net6.0\Tools.pdb

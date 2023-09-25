@@ -30,6 +30,9 @@
             "projectReferences": {
               "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj"
               }
             }
           }

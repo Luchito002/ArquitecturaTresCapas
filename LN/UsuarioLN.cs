@@ -18,9 +18,11 @@ namespace LN
                 var usuariosOperations = new UsuariosOperations(dbContext);
 
                 // Aquí puedes encriptar la contraseña antes de guardarla en la base de datos
-                usuario.Contrasenia = Encriptacion.EncriptarConClavePublica(usuario.Contrasenia, "tu_clave_publica");
+                usuario.Contrasenia = Encriptacion.Encriptar(usuario.Contrasenia, 3);
 
-                // Luego, puedes continuar con la creación del usuario en la base de datos
+                Console.WriteLine(usuario.Contrasenia);
+
+                // Continuar con la creación del usuario en la base de datos
                 return usuariosOperations.CrearUsuario(usuario);
             }
         }

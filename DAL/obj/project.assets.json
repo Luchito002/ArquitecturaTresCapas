@@ -555,6 +555,16 @@
         "runtime": {
           "bin/placeholder/Entities.dll": {}
         }
+      },
+      "Tools/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tools.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tools.dll": {}
+        }
       }
     }
   },
@@ -1367,6 +1377,11 @@
       "type": "project",
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Tools/1.0.0": {
+      "type": "project",
+      "path": "../Tools/Tools.csproj",
+      "msbuildProject": "../Tools/Tools.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1375,7 +1390,8 @@
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.11",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.Configuration.Json >= 7.0.0",
-      "Npgsql.EntityFrameworkCore.PostgreSQL >= 7.0.11"
+      "Npgsql.EntityFrameworkCore.PostgreSQL >= 7.0.11",
+      "Tools >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1407,6 +1423,9 @@
           "projectReferences": {
             "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Entities\\Entities.csproj"
+            },
+            "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj": {
+              "projectPath": "C:\\Users\\Fernando\\source\\repos\\WebApplicationArchitecture\\Tools\\Tools.csproj"
             }
           }
         }

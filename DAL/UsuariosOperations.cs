@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Tools;
 
 namespace DAL
 {
@@ -35,8 +36,11 @@ namespace DAL
             // Busca un usuario con el nombre de usuario proporcionado en la base de datos
             var usuarioEncontrado = _context.Usuarios.FirstOrDefault(u => u.Nombre == usuario.Nombre);
 
+            Console.WriteLine(usuarioEncontrado.Contrasenia);
+            Console.WriteLine(Encriptacion.Desencriptar(usuarioEncontrado.Contrasenia, 3));
+
             // Verifica si se encontró un usuario y si la contraseña coincide
-            if (usuarioEncontrado != null && usuarioEncontrado.Contrasenia == usuario.Contrasenia)
+            if (usuarioEncontrado != null && Encriptacion.Desencriptar(usuarioEncontrado.Contrasenia, 3) == usuario.Contrasenia)
             {
                 // Inicio de sesión exitoso
                 return true;

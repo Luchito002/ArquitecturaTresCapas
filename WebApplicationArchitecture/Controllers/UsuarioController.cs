@@ -16,7 +16,7 @@ namespace WebApplicationArchitecture.Controllers
             usuarioLn = new UsuarioLN();
         }
 
-        [HttpPost]
+        [HttpPost("login")]
         public Response LoginUsuario(Usuario usuario)
         {
             string message = "Algo salio mal";
@@ -25,7 +25,7 @@ namespace WebApplicationArchitecture.Controllers
             {
                 // Crear una instancia de la clase Request y almacenarla en la sesión
                 var request = new Request("session_id_value");
-                HttpContext.Session.SetString("SessionId", "asdfasdf");
+                HttpContext.Session.SetString("SessionId", "idsesioncurrent");
 
                 message = "Se inicio sesion correctamente";
             }
@@ -33,6 +33,28 @@ namespace WebApplicationArchitecture.Controllers
                 message: message,
                 details: "Sin detalles",
                 codigoEstado: 200
+            );
+        }
+
+        [HttpPost("crear")]
+        public Response CrearUsuario(Usuario usuario)
+        {
+            if (string.IsNullOrEmpty(HttpContext.Session.GetString("SessionId")))
+            {
+                return new Response(
+                    "Algo salio mal",
+                    "No tienes el Id sesion",
+                    200
+                );
+            }
+            string message = "Algo salio mal";
+            bool respuesta = usuarioLn.CrearUsuario(usuario);
+            if (respuesta) message = "Se inserto el usuario correctamente";
+
+            return new Response(
+                message,
+                details: "Sin detalles",
+                200
             );
         }
     }
