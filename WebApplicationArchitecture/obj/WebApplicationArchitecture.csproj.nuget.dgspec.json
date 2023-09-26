@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\WebApplicationArchitecture\\WebApplicationArchitecture.csproj": {}
+    "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\WebApplicationArchitecture\\WebApplicationArchitecture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\DAL\\DAL.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Entities\\Entities.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Tools\\Tools.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Tools\\Tools.csproj"
               }
             }
           }
@@ -82,21 +82,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Entities\\Entities.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -137,21 +137,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\LN\\LN.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\LN\\LN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\LN\\LN.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\LN\\LN.csproj",
         "projectName": "LN",
-        "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\LN\\LN.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\LN\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\LN\\LN.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\LN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -165,14 +165,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\DAL\\DAL.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Entities\\Entities.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Tools\\Tools.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Tools\\Tools.csproj"
               }
             }
           }
@@ -202,21 +202,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Tools\\Tools.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Tools\\Tools.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Tools\\Tools.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Tools\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Tools\\Tools.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -257,21 +257,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\WebApplicationArchitecture\\WebApplicationArchitecture.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\WebApplicationArchitecture\\WebApplicationArchitecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\WebApplicationArchitecture\\WebApplicationArchitecture.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\WebApplicationArchitecture\\WebApplicationArchitecture.csproj",
         "projectName": "WebApplicationArchitecture",
-        "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\WebApplicationArchitecture\\WebApplicationArchitecture.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\WebApplicationArchitecture\\obj\\",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\WebApplicationArchitecture\\WebApplicationArchitecture.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\WebApplicationArchitecture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -285,11 +285,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\Entities\\Entities.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\LN\\LN.csproj": {
-                "projectPath": "C:\\Users\\Fernando\\Desktop\\jals;dkfvjs;kljvakl;jvasdv\\ArquitecturaTresCapas\\LN\\LN.csproj"
+              "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\LN\\LN.csproj": {
+                "projectPath": "C:\\Users\\USUARIO\\Desktop\\nCapasExamen\\LN\\LN.csproj"
               }
             }
           }
@@ -332,7 +332,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
